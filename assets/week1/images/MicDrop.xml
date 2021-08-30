@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MicDrop.png"><SubTexture name="MicDrop idle0000" x="0" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="MicDrop idle0001" x="926" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="MicDrop idle0002" x="1852" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="MicDrop idle0003" x="2778" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="MicDrop idle0004" x="0" y="1067" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+</TextureAtlas>

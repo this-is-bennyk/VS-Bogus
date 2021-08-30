@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MadnessScare.png"><SubTexture name="MadnessScare idle0000" x="0" y="0" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0001" x="1375" y="0" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0002" x="2750" y="0" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0003" x="4125" y="0" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0004" x="0" y="775" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0005" x="1375" y="775" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0006" x="2750" y="775" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+<SubTexture name="MadnessScare idle0007" x="4125" y="775" width="1375" height="775" frameX="0" frameY="0" frameWidth="1375" frameHeight="775" />
+</TextureAtlas>

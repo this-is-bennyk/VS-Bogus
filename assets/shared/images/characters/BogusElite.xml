@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BogusElite.png"><SubTexture name="BogusElite down0000" x="0" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite down0001" x="926" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite down0002" x="1852" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite down0003" x="2778" y="0" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0000" x="0" y="1067" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0001" x="926" y="1067" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0002" x="1852" y="1067" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0003" x="2778" y="1067" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0004" x="0" y="2134" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0005" x="926" y="2134" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0006" x="1852" y="2134" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0007" x="2778" y="2134" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0008" x="0" y="3201" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite idle0009" x="926" y="3201" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite left0000" x="1852" y="3201" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite left0001" x="2778" y="3201" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite left0002" x="0" y="4268" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite left0003" x="926" y="4268" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite right0000" x="1852" y="4268" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite right0001" x="2778" y="4268" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite right0002" x="0" y="5335" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite right0003" x="926" y="5335" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite up0000" x="1852" y="5335" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite up0001" x="2778" y="5335" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite up0002" x="0" y="6402" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+<SubTexture name="BogusElite up0003" x="926" y="6402" width="926" height="1067" frameX="0" frameY="0" frameWidth="926" frameHeight="1067" />
+</TextureAtlas>

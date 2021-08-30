@@ -1,0 +1,6 @@
+Tutorial:gf:0
+Binted:bogus:1
+Uprising:bogus:1
+Elite:bogus-elite:1
+Roses:bogus:1
+Madness:bogus-elite:1

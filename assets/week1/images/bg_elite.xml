@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_elite.png">
+	<SubTexture name="bg_wiggle0000" x="0" y="0" width="1600" height="1200"/>
+	<SubTexture name="bg_wiggle0001" x="1600" y="0" width="1600" height="1200"/>
+</TextureAtlas>
